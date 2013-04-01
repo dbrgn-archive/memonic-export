@@ -13,6 +13,13 @@ The data is pretty raw and not preprocessed. But it should be enough so you can
 write import scripts for other services.
 
 
+Requirements
+------------
+
+- Python 2.6+ or 3
+- python-requests (install via ``pip install -r requirements.txt``)
+
+
 Usage
 -----
 
