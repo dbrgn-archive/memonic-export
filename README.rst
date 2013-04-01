@@ -12,6 +12,9 @@ Notes to JSON files using the official API.
 The data is pretty raw and not preprocessed. But it should be enough so you can
 write import scripts for other services.
 
+Note that **tags are not included** when exporting via the API. It appears that
+this is a bug / omission in the API implementation.
+
 
 Requirements
 ------------
