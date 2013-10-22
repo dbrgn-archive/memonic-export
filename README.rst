@@ -20,7 +20,7 @@ Requirements
 ------------
 
 - Python 2.6+ or 3
-- python-requests (install via ``pip install -r requirements.txt``)
+- python-requests >= 1.0 (install via ``pip install -r requirements.txt``)
 
 
 Usage
